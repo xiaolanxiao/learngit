@@ -13,7 +13,7 @@ class UserController extends BaseController {
 
     public function index(){
         echo "黄潇is stupid!";
-        echo "create a new branch";
+        echo "create a new branch  is so easy";
         $this->display();
     }
 
