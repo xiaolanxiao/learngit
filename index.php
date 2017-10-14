@@ -15,6 +15,7 @@ class UserController extends BaseController {
         echo "黄潇is stupid!";
         echo "new barnch";
         echo "create a new branch is array, array";
+        echo "new branchfromdev";
         $this->display();
     }
 
