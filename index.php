@@ -13,6 +13,7 @@ class UserController extends BaseController {
 
     public function index(){
         echo "黄潇is stupid!";
+        echo "okok";
         $this->display();
     }
 
